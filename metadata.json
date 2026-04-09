@@ -1,0 +1,5 @@
+{
+  "name": "Phi-3 Arch Setup Wizard",
+  "description": "Generate optimized Arch Linux installation scripts for Phi-3.5 and Phi-3 mini models with custom hardware support.",
+  "requestFramePermissions": []
+}
